@@ -6,6 +6,9 @@ export default class App extends Component {
     return (
       <View>
         <Text> Hello, World</Text>
+        <Text></Text>
+        <Text></Text>
+
       </View>
     )
   }
