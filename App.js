@@ -7,6 +7,8 @@ export default class App extends Component {
       <View>
         <Text> Hello, World</Text>
         <Text></Text>
+        <Text></Text>
+
       </View>
     )
   }
